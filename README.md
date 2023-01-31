@@ -29,4 +29,4 @@ Refactored the code to meet the accessibility standards as outlined above in the
 
 ## Usage
 
-    ![Horiseon Consulting Services Website](https://github.com/kaitlynatif/Challenge_01/blob/a3a7cd842bd8f72d5b853a02a1b4de47286831c9/assets/images/01-html-css-git-homework-demo.png)
+ ![Alt text](assets/images/01-html-css-git-homework-demo.png?raw=true "Horiseon Consulting Services Website")
