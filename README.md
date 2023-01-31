@@ -29,6 +29,6 @@ Refactored the code to meet the accessibility standards as outlined above in the
 
 ## Usage
 
-    ```md
-    ![Horiseon Consulting Services Website](assets/images/01-html-css-git-homework-demo.png)
+    ```
+    [Horiseon Consulting Services Website](assets/images/01-html-css-git-homework-demo.png)
     ```
